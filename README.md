@@ -5,5 +5,5 @@ This repo is the collection of the exercises I've completed during the course.
 * Introduction Data Science
 * Software Engineering Concepts
   * Software Engineering Practices
-  * Object Oriented PRogramming
+  * Object Oriented Programming
   * Web Development
